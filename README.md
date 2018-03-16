@@ -1,2 +1,2 @@
 # rosalind
-Python scripts for Rosalind bioinformatics problems (rosalind.info)
+Python scripts for Rosalind bioinformatics problems (http://rosalind.info/problems/locations/)
