@@ -1,3 +1,4 @@
+# http://rosalind.info/problems/revc/
 from sys import argv
 f = open(argv[1], 'r')
 s = f.read().strip()

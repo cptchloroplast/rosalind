@@ -1,3 +1,4 @@
+# http://rosalind.info/problems/hamm/
 from sys import argv
 f = open(argv[1], 'r')
 s1 = f.readline().strip()

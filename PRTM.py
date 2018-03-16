@@ -1,3 +1,4 @@
+# http://rosalind.info/problems/prtm/
 from sys import argv
 from AAMassTable import c
 f = open(argv[1], 'r')

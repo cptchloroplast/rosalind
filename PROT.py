@@ -1,3 +1,4 @@
+# http://rosalind.info/problems/prot/
 from sys import argv
 from RNACodonTable import c
 f = open(argv[1], 'r')
